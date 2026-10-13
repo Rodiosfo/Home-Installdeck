@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/status-preview-f0c674?style=flat-square" alt="Preview" />
     <img src="https://img.shields.io/badge/license-BSD--3--Clause-8bb9fe?style=flat-square" alt="BSD 3-Clause" />
   </p>
-  <p><a href="downloads/Installed-Home-0.1.2.zip?raw=true"><strong>Download plugin</strong></a> · <a href="#installation">Install</a> · <a href="#development">Develop</a> · <a href="docs/README.es.md">Español</a></p>
+  <p><a href="https://github.com/Rodiosfo/Home-Installdeck/releases/download/v0.1.2/Installed-Home-0.1.2.zip"><strong>Download plugin</strong></a> · <a href="#installation">Install</a> · <a href="#development">Develop</a> · <a href="docs/README.es.md">Español</a></p>
 </div>
 
 ---
@@ -33,7 +33,7 @@ The filter applies to the **main home carousel**. Other Steam home sections rema
 ## Installation
 
 1. Install [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) on your Steam Deck.
-2. Download [Installed-Home-0.1.2.zip](downloads/Installed-Home-0.1.2.zip?raw=true) and leave it zipped.
+2. Download [Installed-Home-0.1.2.zip](https://github.com/Rodiosfo/Home-Installdeck/releases/download/v0.1.2/Installed-Home-0.1.2.zip) and leave it zipped.
 3. In Decky settings, enable developer mode and use **Install Plugin from ZIP** in the developer section. Labels may vary by Decky version.
 4. Open **Installed Home** in Decky and enable **Activar filtro**.
 5. Return to Steam Home. If the carousel has not refreshed, visit Library and return, or restart Steam when prompted.
