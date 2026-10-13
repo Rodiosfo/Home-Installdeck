@@ -1,0 +1,10 @@
+{
+  "name": "Installed Home",
+  "author": "Fran",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["library", "utility"],
+    "description": "Muestra juegos locales en el carrusel nativo de Inicio, sin inyectar CSS."
+  }
+}
